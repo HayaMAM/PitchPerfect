@@ -4,14 +4,6 @@
 //
 //  Created by تهاني  موسى on 20/07/1440 AH.
 //  Copyright © 1440 Udacity. All rights reserved.
-//
-
-//
-//  PlaySoundsViewController+Audio.swift
-//  PitchPerfect
-//
-//  Copyright آ© 2016 Udacity. All rights reserved.
-//
 
 import UIKit
 import AVFoundation
