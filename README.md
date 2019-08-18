@@ -10,6 +10,7 @@ This is designed to record your voice and then play it in different sounds.
 ## Used Technologies in Virtual Tourist Project
 * Swift 5
 * UIKit framework
+* AVFoundation framework
 
 ## Requiments to Run the App
 The app is built by using Xcode 10.2 version along with Swift 5. So it requires at least:
